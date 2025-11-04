@@ -212,15 +212,15 @@ This project aims to solve that problem by **predicting plant health early** usi
 We collect real-time environmental and nutritional parameters like soil moisture, temperature, pH, nutrients, and light exposure.  
 These signals are then processed through advanced ML models to identify whether a plant is:
 
-- ✅ Healthy  
-- ⚡ Moderately Stressed  
-- ⚠️ Highly Stressed  
+-  Healthy  
+-  Moderately Stressed  
+-  Highly Stressed  
 
 By doing this, farmers and researchers can take **timely action**, improve productivity, and support sustainable farming.
 
 ---
 
-### 👨‍💻 Team Members
+###  Team Members
 
 | Name | Roll No |
 |------|--------|
@@ -230,7 +230,7 @@ By doing this, farmers and researchers can take **timely action**, improve produ
 
 ---
 
-### 🧑‍🏫 Project Guide
+###  Project Guide
 
 **Under the guidance of:**  
 **Dr. Perepi Raja Rajeshwari**
@@ -239,7 +239,7 @@ Thank you for the mentorship and continuous support throughout this project.
 
 ---
 
-### 🎯 Project Goal
+###  Project Goal
 
 To build an intelligent system that:
 
